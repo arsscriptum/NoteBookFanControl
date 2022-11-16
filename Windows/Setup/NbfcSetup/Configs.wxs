@@ -101,6 +101,9 @@
             <Component Id="cmpE2705FC97CB36E5D93C4FF02AC115131" Directory="ConfigsFolder" Guid="*">
                 <File Id="filEDA83F46A0CB4FA222352177AC8D055B" KeyPath="yes" Source="$(var.ConfigsDir)\Acer Aspire VN7-572G V15 Nitro BE.xml" />
             </Component>
+            <Component Id="cmp994A097B3EDCD660D73B61F9236A0367" Directory="ConfigsFolder" Guid="*">
+                <File Id="fil78B45B63399B2D77AE80C942578099B9" KeyPath="yes" Source="$(var.ConfigsDir)\Acer Aspire VN7-572G V15 Nitro.xml" />
+            </Component>
             <Component Id="cmpD71B3707DA36020BF8C994F0B25BD1A3" Directory="ConfigsFolder" Guid="*">
                 <File Id="fil91F3B103ED5081F45B57746C04AB3C0B" KeyPath="yes" Source="$(var.ConfigsDir)\Acer Aspire VN7-591G V15 Nitro BE.xml" />
             </Component>
@@ -404,6 +407,9 @@
             <Component Id="cmp8556A57367AD6B7126BEC26A79FCDDB9" Directory="ConfigsFolder" Guid="*">
                 <File Id="filBCCD41B020E7DFD79ED5975DCA294656" KeyPath="yes" Source="$(var.ConfigsDir)\HP Pavilion HDX18.xml" />
             </Component>
+            <Component Id="cmp6200F0A17594260E360CCF27488B9B85" Directory="ConfigsFolder" Guid="*">
+                <File Id="fil7C5BBCBD0F77A6EAC4A4E2BBF25EF90E" KeyPath="yes" Source="$(var.ConfigsDir)\HP Pavilion x360 Convertible 14-dh1xxx.xml" />
+            </Component>
             <Component Id="cmp60A6CB46988B7C26D6AD664873242E65" Directory="ConfigsFolder" Guid="*">
                 <File Id="fil3CFA9BE2A05FB47C450874CB694677A0" KeyPath="yes" Source="$(var.ConfigsDir)\HP Pavilion x360 Convertible 15-br0xx.xml" />
             </Component>
@@ -460,6 +466,9 @@
             </Component>
             <Component Id="cmp852ACE5B973150C398028EADEF221798" Directory="ConfigsFolder" Guid="*">
                 <File Id="fil7D49D2B3E0D85A7CF856AC18DD35FB39" KeyPath="yes" Source="$(var.ConfigsDir)\HP Spectre x360 Convertible 13-ae0xx.xml" />
+            </Component>
+            <Component Id="cmp7C3FD873E403AE65BE29B91697E55456" Directory="ConfigsFolder" Guid="*">
+                <File Id="filEDB628517BE4421A1E778A076B7667FC" KeyPath="yes" Source="$(var.ConfigsDir)\HP Spectre x360 Convertible 15-ch0xx.xml" />
             </Component>
             <Component Id="cmpC5F1B24CFBEA473EC0903737D6AAB717" Directory="ConfigsFolder" Guid="*">
                 <File Id="fil37634ED272AA0EC548316C7DEE23EDE6" KeyPath="yes" Source="$(var.ConfigsDir)\HP ZBook 15 G3.xml" />
